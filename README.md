@@ -15,3 +15,12 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+
+My notes
+
+Bikeshare Project Cloning to Git
+    Date this clone Created -  December 28th, 2021
+    Project Title: Bikeshare Project
+    Description: Review the bikeshare data files with the python script
+    Files used: Chicago, New York, Washington bikeshare data csv files
+    Readme txt has all the resources that have been used to complete the project.
