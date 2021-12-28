@@ -25,6 +25,7 @@ Bikeshare Project Cloning to Git
     Files used: Chicago, New York, Washington bikeshare data csv files
     Readme txt has all the resources that have been used to complete the project.
 
+
 Additional Change 1 - 
 
 *****working on the section 3 change 1 ****
@@ -33,3 +34,13 @@ Additional Change 2 -
 
 
 *****working on the section 3 change 2 ****
+
+Refoctoring Additional Change 1
+
+********working on additional change 1 in the refactoring branch *******
+
+
+Refactoring Additional Change 2
+
+********working on additional change 2 in the refactoring branch *******
+
