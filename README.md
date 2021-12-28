@@ -32,13 +32,11 @@ Additional Change 1 -
 
 Additional Change 2 - 
 
-
 *****working on the section 3 change 2 ****
 
-Refoctoring Additional Change 1
+Refactoring Additional Change 1
 
 ********working on additional change 1 in the refactoring branch *******
-
 
 Refactoring Additional Change 2
 
