@@ -24,3 +24,7 @@ Bikeshare Project Cloning to Git
     Description: Review the bikeshare data files with the python script
     Files used: Chicago, New York, Washington bikeshare data csv files
     Readme txt has all the resources that have been used to complete the project.
+
+Additional Change 1 - 
+
+*****working on the section 3 change 1 ****
