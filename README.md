@@ -28,3 +28,8 @@ Bikeshare Project Cloning to Git
 Additional Change 1 - 
 
 *****working on the section 3 change 1 ****
+
+Additional Change 2 - 
+
+
+*****working on the section 3 change 2 ****
